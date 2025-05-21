@@ -4,7 +4,8 @@ const TestimonialsCarousel = () => {
   return (
     <section
       className="section kf-testimonials kf-testimonials-2 section-bg"
-      style={{ backgroundImage: "url(images/testimonials_bg2.jpeg)" }}
+      // style={{ backgroundImage: "url(images/testimonials_bg2.jpeg)" }}
+      style={{backgroundColor: "#f7f7f7"}}
     >
       <div className="container">
         <div className="kf-titles align-center">
@@ -15,7 +16,7 @@ const TestimonialsCarousel = () => {
             Customer Feedback
           </div>
           <h3
-            className="kf-title element-anim-1 scroll-animate"
+            className="kf-title kf-title-v2  element-anim-1 scroll-animate"
             data-animate="active"
           >
             What Our Clients Say

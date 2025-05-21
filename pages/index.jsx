@@ -129,7 +129,8 @@ const Index = () => {
       {/* Section Menu */}
       <section
         className="section kf-menu kf-parallax"
-        style={{ backgroundImage: "url(images/category_bg.jpg)" }}
+        // style={{ backgroundImage: "url(images/category_bg.jpg)" }}
+         style={{backgroundColor: "#f7f7f7"}}
       >
         <div className="container">
           <div className="kf-titles align-center">
@@ -140,7 +141,7 @@ const Index = () => {
               Choose Best Coffee
             </div>
             <h3
-              className="kf-title element-anim-1 scroll-animate"
+              className="kf-title kf-title-v2 element-anim-1 scroll-animate"
               data-animate="active"
             >
               Kaffen Popular Coffee Menu
