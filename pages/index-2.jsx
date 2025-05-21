@@ -414,7 +414,7 @@ const Index2 = () => {
               <div
                 className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
-                style={{ backgroundColor: "#090c0f" }}
+                style={{ backgroundColor: "$secondary_background;" }}
               >
                 <div className="desc">
                   <h5 className="name">Anthony J. Bowman</h5>
@@ -447,7 +447,7 @@ const Index2 = () => {
               <div
                 className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
-                style={{ backgroundColor: "#090c0f" }}
+                style={{ backgroundColor: "$secondary_background;" }}
               >
                 <div className="desc">
                   <h5 className="name">Kenny V. Gonzalez</h5>
@@ -480,7 +480,7 @@ const Index2 = () => {
               <div
                 className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
-                style={{ backgroundColor: "#090c0f" }}
+                style={{ backgroundColor: "$secondary_background;" }}
               >
                 <div className="desc">
                   <h5 className="name">Joseph M. Lawrence</h5>
@@ -513,7 +513,7 @@ const Index2 = () => {
               <div
                 className="kf-team-item element-anim-1 scroll-animate"
                 data-animate="active"
-                style={{ backgroundColor: "#090c0f" }}
+                style={{ backgroundColor: "$secondary_background;" }}
               >
                 <div className="desc">
                   <h5 className="name">Charles K. Smith</h5>
